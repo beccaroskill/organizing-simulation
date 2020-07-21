@@ -1,0 +1,6 @@
+- Merge organizing/management skill and rate into one "efficacy" parameter: x
+  skill = x
+  contact rate = round( skill * firm_size )
+- Visualize: union x and management x vs share of elections won
+    - Time between elections
+    - Find x_u and x_m that minimizes distance between real data and simulation data
